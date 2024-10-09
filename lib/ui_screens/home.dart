@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
           items:[
         BottomNavigationBarItem(icon: Icon(Icons.home),label: "Home"),
         BottomNavigationBarItem(icon: Icon(Icons.search),label: "Search"),
-        BottomNavigationBarItem(icon: Icon(Icons.open_in_browser_outlined),label: "Browser"),
+        BottomNavigationBarItem(icon: Icon(Icons.open_in_browser_outlined),label: "Browse"),
         BottomNavigationBarItem(icon: Icon(Icons.watch_later),label: "Watch List"),
       ],
         type: BottomNavigationBarType.fixed,)
